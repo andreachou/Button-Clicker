@@ -1,5 +1,7 @@
 # Button Clicker
 
+## Coding Dojo Core Assignment
+
 ### Objectives
 
 * Practice using the ```onclick``` event
